@@ -1,13 +1,14 @@
 {
 	"request": [
 		{
-			"title": "Hunting Tigers Out in India",
-			"artiste(s)": "Bonzo Dog Band",
-			"album": "Urban Spaceman",
-			"duration-minutes": "3",
-			"duration-seconds": "45",
-			"url": "http://somewhere.come"
-		}
+			"title": "Way of the Haggis",
+			"artiste(s)": "The Haggis Horns",
+			"album": "Keep on Movin'",
+			"duration-minutes": "4",
+			"duration-seconds": "28",
+			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin"
+		},
+		{}
 	],
 	"next-set": "June"
 }
