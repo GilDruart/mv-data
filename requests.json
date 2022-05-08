@@ -6,7 +6,8 @@
 			"album": "Keep on Movin'",
 			"duration-minutes": "4",
 			"duration-seconds": "28",
-			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin"
+			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin",
+			"public": true
 		},
 		{
 			"title": "Satie: Gymnopedie No.1/Var.1",
@@ -14,7 +15,8 @@
 			"album": "Gymnopodies & Gnoissiennes",
 			"duration-minutes": "4",
 			"duration-seconds": "35",
-			"url": "https://www.discogs.com/master/1206605-Jacques-Loussier-Trio-Satie-Gymnop%C3%A9dies-Gnossiennes"
+			"url": "https://www.discogs.com/master/1206605-Jacques-Loussier-Trio-Satie-Gymnop%C3%A9dies-Gnossiennes",
+			"public": false
 		},
 		{
 			"title": "Dr Qui",
@@ -22,7 +24,8 @@
 			"album": "The Ultimate Collection... Ever!",
 			"duration-minutes": "3",
 			"duration-seconds": "29",
-			"url": "https://www.discogs.com/master/667397-Bill-Bailey-The-Ultimate-Collection-Ever"
+			"url": "https://www.discogs.com/master/667397-Bill-Bailey-The-Ultimate-Collection-Ever",
+			"public": false
 		},
 		{
 			"title": "Pachelbel's Canon",
@@ -31,7 +34,8 @@
 			"duration-minutes": "5",
 			"duration-seconds": "23",
 			"url": "https://www.discogs.com/master/564430-Hiromi-Place-To-Be",
-			"comments": "### Note \nThere is a longer (about 8'), better version that she does live, the extended middle secttion where she gives the melody to the left hand is really cool - but I can only find it on video :-( e.g. [YouTube](https://www.youtube.com/watch?v=-XSYQBBVcQ4) or [discogs](https://www.discogs.com/master/1957447-Hiromi-Hiromi-Solo-Live-At-Blue-Note-New-York)\n"
+			"comments": "### Note \nThere is a longer (about 8'), better version that she does live, the extended middle secttion where she gives the melody to the left hand is really cool - but I can only find it on video :-( e.g. [YouTube](https://www.youtube.com/watch?v=-XSYQBBVcQ4) or [discogs](https://www.discogs.com/master/1957447-Hiromi-Hiromi-Solo-Live-At-Blue-Note-New-York)\n",
+			"public": false
 		}
 	],
 	"next-set": "May"
