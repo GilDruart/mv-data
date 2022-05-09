@@ -1,15 +1,6 @@
 {
 	"request": [
 		{
-			"title": "Way of the Haggis",
-			"artiste(s)": "The Haggis Horns",
-			"album": "Keep on Movin'",
-			"duration-minutes": "4",
-			"duration-seconds": "28",
-			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin",
-			"public": true
-		},
-		{
 			"title": "Satie: Gymnopedie No.1/Var.1",
 			"artiste(s)": "Jacques Loussier Trio",
 			"album": "Gymnopodies & Gnoissiennes",
@@ -19,12 +10,30 @@
 			"public": false
 		},
 		{
+			"title": "Way of the Haggis",
+			"artiste(s)": "The Haggis Horns",
+			"album": "Keep on Movin'",
+			"duration-minutes": "4",
+			"duration-seconds": "28",
+			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin",
+			"public": true
+		},
+		{
 			"title": "Dr Qui",
 			"artiste(s)": "Bill Bailey",
 			"album": "The Ultimate Collection... Ever!",
 			"duration-minutes": "3",
 			"duration-seconds": "29",
 			"url": "https://www.discogs.com/master/667397-Bill-Bailey-The-Ultimate-Collection-Ever",
+			"public": true
+		},
+		{
+			"title": "Groove da B",
+			"artiste(s)": "Alphorn Experience",
+			"album": "Axxalp",
+			"duration-minutes": "2",
+			"duration-seconds": "12",
+			"url": "https://www.discogs.com/release/13847807-Alphorn-Experience-Axxalp",
 			"public": true
 		},
 		{
