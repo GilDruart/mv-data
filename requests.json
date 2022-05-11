@@ -1,15 +1,6 @@
 {
 	"request": [
 		{
-			"title": "Way of the Haggis",
-			"artiste(s)": "The Haggis Horns",
-			"album": "Keep on Movin'",
-			"duration-minutes": "4",
-			"duration-seconds": "28",
-			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin",
-			"public": true
-		},
-		{
 			"title": "Satie: Gymnopedie No.1/Var.1",
 			"artiste(s)": "Jacques Loussier Trio",
 			"album": "Gymnopodies & Gnoissiennes",
@@ -17,6 +8,15 @@
 			"duration-seconds": "35",
 			"url": "https://www.discogs.com/master/1206605-Jacques-Loussier-Trio-Satie-Gymnop%C3%A9dies-Gnossiennes",
 			"public": false
+		},
+		{
+			"title": "Way of the Haggis",
+			"artiste(s)": "The Haggis Horns",
+			"album": "Keep on Movin'",
+			"duration-minutes": "4",
+			"duration-seconds": "28",
+			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin",
+			"public": true
 		},
 		{
 			"title": "Dr Qui",
