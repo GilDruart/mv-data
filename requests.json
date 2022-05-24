@@ -9,27 +9,6 @@
 			"url": "https://www.discogs.com/master/1206605-Jacques-Loussier-Trio-Satie-Gymnop%C3%A9dies-Gnossiennes",
 			"public": false,
 			"surl": "url for spotify",
-			"p-6": [
-				{
-					"public": false,
-					"title": "TestTitle",
-					"artiste(s)": "TestArtist",
-					"album": "TestAlbum",
-					"duration-minutes": "TM",
-					"duration-seconds": "TS",
-					"url": "http:://discogs",
-					"surl": "http://spotify"
-				},
-				{
-					"public": false,
-					"title": "title",
-					"artiste(s)": "artist",
-					"album": "album",
-					"duration-minutes": "3",
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
 		},
 		{
 			"title": "G-Spot",
@@ -40,13 +19,6 @@
 			"url": "https://www.discogs.com/release/3752009-Pink-Freud-Horse-Power",
 			"surl": "https://open.spotify.com/track/4E1ZZpC7u9Fi7qVrEU8pTS?si=1ad73d5643844516",
 			"public": true,
-			"p-6": [
-				{
-					"public": false,
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
 		},
 		{
 			"title": "Way of the Haggis",
@@ -57,13 +29,6 @@
 			"url": "https://www.discogs.com/release/2396955-The-Haggis-Horns-With-Nia-Saw-Keep-On-Movin",
 			"public": true,
 			"surl": "url for spotify",
-			"p-6": [
-				{
-					"public": false,
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
 		},
 		{
 			"title": "Groove da B",
@@ -74,13 +39,6 @@
 			"url": "https://www.discogs.com/release/13847807-Alphorn-Experience-Axxalp",
 			"public": false,
 			"surl": "url for spotify",
-			"p-6": [
-				{
-					"public": false,
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
 		},
 		{
 			"title": "Pachelbel's Canon",
@@ -92,13 +50,6 @@
 			"comments": "### Note \nThere is a longer (about 8'), better version that she does live, the extended middle section where she gives the melody to the left hand is really cool - but I can only find it on video :-( e.g. [YouTube](https://www.youtube.com/watch?v=-XSYQBBVcQ4) or [discogs](https://www.discogs.com/master/1957447-Hiromi-Hiromi-Solo-Live-At-Blue-Note-New-York)\n",
 			"public": true,
 			"surl": "url for spotify",
-			"p-6": [
-				{
-					"public": false,
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
 		},
 		{
 			"title": "Dr Qui",
@@ -110,34 +61,7 @@
 			"public": true,
 			"surl": "url for spotify",
 			"comments": "Reserve/if we fancy a laugh",
-			"p-6": [
-				{
-					"public": false,
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
 		}
 	],
 	"next-set": "June",
-	"table-fixed": [
-		{
-			"request": [
-				{
-					"public": false,
-					"title": "title",
-					"artiste(s)": "artist",
-					"album": "album",
-					"duration-minutes": "3",
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				},
-				{
-					"public": false,
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
-		}
-	]
 }
