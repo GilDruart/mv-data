@@ -1,1 +1,16 @@
-
+{
+	"next-set": "June",
+	"request": [
+		{
+			"title": "TestTitle",
+			"artiste(s)": "TestArtist",
+			"album": "TestAlbum",
+			"duration-minutes": "3",
+			"duration-seconds": "45",
+			"url": "http://discogs",
+			"surl": "http://spotify",
+			"public": false,
+			"comments": "**Notes go here**\nin Marfdown"
+		}
+	]
+}
