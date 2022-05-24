@@ -1,15 +1,15 @@
 {
-	"next-set": "June",
+	"next-set": "July",
 	"request": [
 		{
-			"title": "TestTitle",
-			"artiste(s)": "TestArtist",
-			"album": "TestAlbum",
-			"duration-minutes": "3",
-			"duration-seconds": "45",
-			"url": "http://discogs",
-			"surl": "http://spotify",
-			"public": false,
+			"title": "Subway Awakening",
+			"artiste(s)": "Tom Varner Qaurtet",
+			"album": "Motion/Stillness",
+			"duration-minutes": "11",
+			"duration-seconds": "23",
+			"url": "https://www.discogs.com/release/2440946-Tom-Varner-Quartet-Motion-Stillness",
+			"surl": "https://open.spotify.com/track/1Q6v1o79fBqTNCt3JjTItc?si=f8158581e90e4a7c",
+			"public": true,
 			"comments": "**Notes go here**\nin Marfdown"
 		}
 	]
