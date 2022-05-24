@@ -11,6 +11,11 @@
 			"surl": "https://open.spotify.com/track/1Q6v1o79fBqTNCt3JjTItc?si=f8158581e90e4a7c",
 			"public": true,
 			"comments": "_Jazz French Horn_"
+		},
+		{
+			"url": "url for discogs",
+			"surl": "url for spotify",
+			"public": true
 		}
 	]
 }
