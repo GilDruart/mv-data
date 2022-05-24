@@ -1,18 +1,1 @@
-{
-	"next-set": "month",
-	"table-fixed": [
-		{
-			"request": [
-				{
-					"public": false,
-					"title": "title",
-					"artiste(s)": "artist",
-					"album": "album",
-					"duration-minutes": "3",
-					"url": "url for discogs",
-					"surl": "url for spotify"
-				}
-			]
-		}
-	]
-}
+
