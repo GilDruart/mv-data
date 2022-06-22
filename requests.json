@@ -2,6 +2,16 @@
 	"next-set": "July",
 	"request": [
 		{
+			"title": "Seven Nation Army",
+			"artiste(s)": "Hayley Reinhart + Scott Bradlee PMJ",
+			"album": "The Essentials",
+			"duration-minutes": "4",
+			"duration-seconds": "06",
+			"url": "https://www.discogs.com/release/12967273-Scott-Bradlees-Postmodern-Jukebox-Ft-Haley-Reinhart-Oops-I-Did-It-Again",
+			"surl": "url for spotify",
+			"public": true
+		},
+		{
 			"title": "Subway Awakening",
 			"artiste(s)": "Tom Varner Quartet",
 			"album": "Motion/Stillness",
