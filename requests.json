@@ -2,16 +2,6 @@
 	"next-set": "July",
 	"request": [
 		{
-			"title": "Seven Nation Army",
-			"artiste(s)": "Hayley Reinhart + Scott Bradlee PMJ",
-			"album": "The Essentials",
-			"duration-minutes": "4",
-			"duration-seconds": "06",
-			"url": "https://www.discogs.com/release/12967273-Scott-Bradlees-Postmodern-Jukebox-Ft-Haley-Reinhart-Oops-I-Did-It-Again",
-			"surl": "url for spotify",
-			"public": true
-		},
-		{
 			"title": "Subway Awakening",
 			"artiste(s)": "Tom Varner Quartet",
 			"album": "Motion/Stillness",
@@ -23,9 +13,45 @@
 			"comments": "_Jazz French Horn_"
 		},
 		{
-			"url": "url for discogs",
+			"title": "Seven Nation Army",
+			"artiste(s)": "Hayley Reinhart + Scott Bradlee PMJ",
+			"album": "The Essentials",
+			"duration-minutes": "4",
+			"duration-seconds": "06",
+			"url": "https://www.discogs.com/release/12967273-Scott-Bradlees-Postmodern-Jukebox-Ft-Haley-Reinhart-Oops-I-Did-It-Again",
 			"surl": "url for spotify",
 			"public": false
+		},
+		{
+			"title": "Chronicle",
+			"artiste(s)": "Eldar Djangirov",
+			"album": "Live At The Blue Note",
+			"duration-minutes": "10",
+			"duration-seconds": "33",
+			"url": "https://www.discogs.com/release/13802405-Eldar-Live-At-The-Blue-Note",
+			"surl": "https://open.spotify.com/track/2xOmlhVToqG102BVm2K5Zh?si=3166e0ad044a4ad3",
+			"public": true
+		},
+		{
+			"url": "https://www.discogs.com/master/415693-Tomasz-Stanko-Quartet-Matka-Joanna",
+			"surl": "https://open.spotify.com/track/7vV16yKIBrfPsFQRIh0M3a?si=1789a2cf38f649fd",
+			"public": true,
+			"title": "Maldoror's War Song",
+			"artiste(s)": "Tomasz Stanko Quartet",
+			"album": "Matka Joanna",
+			"duration-minutes": "8",
+			"duration-seconds": "13"
+		},
+		{
+			"title": "Pursuit of the New Thing",
+			"artiste(s)": "Crenshaw/Marsalis/Jazz at Lincoln Center Orchestra",
+			"album": "The Fifties: A Prism",
+			"duration-minutes": "10",
+			"duration-seconds": "14",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/3FJosmJTAKtAsgRkPOFrjl?si=9b49b28a35f647e6",
+			"public": true,
+			"comments": "Can't find this on discogs, never seems to have heard of Christopher Crenshaw"
 		}
 	]
 }
