@@ -1,5 +1,5 @@
 {
-	"next-set": "July",
+	"next-set": "September",
 	"request": [
 		{
 			"title": "Subway Awakening",
@@ -9,7 +9,7 @@
 			"duration-seconds": "23",
 			"url": "https://www.discogs.com/release/2440946-Tom-Varner-Quartet-Motion-Stillness",
 			"surl": "https://open.spotify.com/track/1Q6v1o79fBqTNCt3JjTItc?si=f8158581e90e4a7c",
-			"public": true,
+			"public": false,
 			"comments": "_Jazz French Horn_"
 		},
 		{
@@ -30,12 +30,12 @@
 			"duration-seconds": "33",
 			"url": "https://www.discogs.com/release/13802405-Eldar-Live-At-The-Blue-Note",
 			"surl": "https://open.spotify.com/track/2xOmlhVToqG102BVm2K5Zh?si=3166e0ad044a4ad3",
-			"public": true
+			"public": false
 		},
 		{
 			"url": "https://www.discogs.com/master/415693-Tomasz-Stanko-Quartet-Matka-Joanna",
 			"surl": "https://open.spotify.com/track/7vV16yKIBrfPsFQRIh0M3a?si=1789a2cf38f649fd",
-			"public": true,
+			"public": false,
 			"title": "Maldoror's War Song",
 			"artiste(s)": "Tomasz Stanko Quartet",
 			"album": "Matka Joanna",
@@ -50,8 +50,16 @@
 			"duration-seconds": "14",
 			"url": "url for discogs",
 			"surl": "https://open.spotify.com/track/3FJosmJTAKtAsgRkPOFrjl?si=9b49b28a35f647e6",
-			"public": true,
+			"public": false,
 			"comments": "Can't find this on discogs, never seems to have heard of Christopher Crenshaw"
+		},
+		{
+			"title": "Dr. Qui",
+			"artiste(s)": "Bill Bailey",
+			"album": "The Ultimate Collection ... Ever!",
+			"url": "https://www.discogs.com/master/667397-Bill-Bailey-The-Ultimate-Collection-Ever",
+			"surl": "url for spotify",
+			"public": true
 		}
 	]
 }
