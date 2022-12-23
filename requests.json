@@ -1,6 +1,49 @@
 {
-	"next-set": "November",
+	"next-set": "December",
 	"request": [
+		{
+			"title": "Dubokalypse",
+			"artiste(s)": "Jazzrausch Bigband",
+			"album": "Bruckner's Breakdown",
+			"duration-minutes": "6",
+			"duration-seconds": "05",
+			"url": "https://open.spotify.com/track/2noJAsk0cXkzswibXMbTFr?si=8a24c557f2fd4e80",
+			"surl": "https://open.spotify.com/track/2jbXccUCWIPs49YV4tt8Wy?si=33e800a4d96a46c3",
+			"public": true
+		},
+		{
+			"title": "Marlowe's Theme",
+			"artiste(s)": "David Shire with Medevi Brunnsorkester",
+			"album": "Lars Eric Andersson Brunnskappelmästare",
+			"duration-minutes": "3",
+			"duration-seconds": "06",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/2F2GJ2V8va7DkHactlcJNZ?si=26a0a25e8c264b40",
+			"public": true,
+			"comments": "Can;t find this version on discogs. There are others, e.g. https://www.discogs.com/release/2356724-David-Shire-Marlowes-Theme-Mrs-Grayles-Theme but i dount the instrumentation would be as cool\n"
+		},
+		{
+			"title": "Orphée & Euridyce",
+			"artiste(s)": "Charl du Plessis/Gluck",
+			"album": "Baroqueswing Vol.II",
+			"duration-minutes": "3",
+			"duration-seconds": "43",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/7Cm2CaZc35mndY9XBfFfqD?si=7095ade2b2e647e2",
+			"public": true,
+			"comments": "Can't find Vol.II on Discogs, Vol I is there https://www.discogs.com/release/11582368-Charl-Du-Plessis-Trio-Charl-du-Plessis-Werner-Spies-Hugo-Radyn-Baroqueswing-Vol-I which is not altogether helpful\n"
+		},
+		{
+			"title": "Sabbath Prayer",
+			"artiste(s)": "Cannonball Adderley",
+			"album": "Fiddler On The Roof",
+			"duration-minutes": "3",
+			"duration-seconds": "19",
+			"url": "https://www.discogs.com/master/306030-Cannonball-Adderley-Cannonball-Adderleys-Fiddler-On-The-Roof",
+			"surl": "https://open.spotify.com/track/2noJAsk0cXkzswibXMbTFr?si=8a24c557f2fd4e80",
+			"public": true,
+			"comments": "Reserve,  if one of the others proves troublesome"
+		},
 		{
 			"title": "Rhapsody in Various Shades of Blue",
 			"artiste(s)": "Hiromi",
@@ -9,7 +52,7 @@
 			"duration-seconds": "46",
 			"url": "https://www.discogs.com/release/14252735-Hiromi-Spectrum",
 			"surl": "https://open.spotify.com/track/3Oe07H5BTI83XAvCriLTs8?si=dae10863412d4d13",
-			"public": true,
+			"public": false,
 			"comments": "Clearly way out of spec at nearly 23 minutes, so not expecting it ... but ... can't shoot a person for asking."
 		},
 		{
@@ -20,7 +63,7 @@
 			"duration-seconds": "56",
 			"url": "https://www.discogs.com/release/10827439-Charl-Du-Plessis-Trio-Baroqueswing-Vol-II",
 			"surl": "https://open.spotify.com/album/1YHSFT1FrYtcMrESGNs9fq?si=408a4321792a41e7",
-			"public": true
+			"public": false
 		},
 		{
 			"title": "O Sole Mio",
@@ -30,7 +73,7 @@
 			"duration-seconds": "40",
 			"url": "https://www.discogs.com/master/1157845-Fausto-Mesolella-Live-Ad-Alcatraz",
 			"surl": "https://open.spotify.com/track/0M68Bn2DVQ9EUYvjOXa7Uv?si=ad3e7d20d8454aae",
-			"public": true
+			"public": false
 		},
 		{
 			"title": "Misty",
