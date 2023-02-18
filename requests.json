@@ -2,13 +2,23 @@
 	"next-set": "December",
 	"request": [
 		{
-			"title": "Dubokalypse",
-			"artiste(s)": "Jazzrausch Bigband",
-			"album": "Bruckner's Breakdown",
-			"duration-minutes": "6",
-			"duration-seconds": "05",
-			"url": "https://open.spotify.com/track/2noJAsk0cXkzswibXMbTFr?si=8a24c557f2fd4e80",
-			"surl": "https://open.spotify.com/track/2jbXccUCWIPs49YV4tt8Wy?si=33e800a4d96a46c3",
+			"title": "Bussie's Blues",
+			"artiste(s)": "Quatuor Debussy avec Jacky Terrasson",
+			"album": "Debussy ... et le jazz (Bonus Track Version)",
+			"duration-minutes": "13",
+			"duration-seconds": "57",
+			"url": "https://www.discogs.com/release/12486000-Claude-Debussy-Quatuor-Debussy-Debussy--Et-Le-Jazz\n",
+			"surl": "https://open.spotify.com/track/2cPPQeXiRrtBEJkOAQQ3CI?si=8b9dfbdad5c144d9\n",
+			"public": true
+		},
+		{
+			"title": "The Song of the Silent Dragon",
+			"artiste(s)": "Oded Tzur",
+			"album": "Like a Great River",
+			"duration-minutes": "14",
+			"duration-seconds": "49",
+			"url": "https://open.spotify.com/track/063mlDuhP6P0Mgtf91RFok?si=63b6d92ad2c14c59/2noJAsk0cXkzswibXMbTFr?si=8a24c557f2fd4e80",
+			"surl": "https://www.discogs.com/release/9908538-Oded-Tzur-Shai-Maestro-Petros-Klampanis-Ziv-Ravitz-Like-A-Great-River/2jbXccUCWIPs49YV4tt8Wy?si=33e800a4d96a46c3",
 			"public": true
 		},
 		{
@@ -19,7 +29,7 @@
 			"duration-seconds": "06",
 			"url": "url for discogs",
 			"surl": "https://open.spotify.com/track/2F2GJ2V8va7DkHactlcJNZ?si=26a0a25e8c264b40",
-			"public": true,
+			"public": false,
 			"comments": "Can;t find this version on discogs. There are others, e.g. https://www.discogs.com/release/2356724-David-Shire-Marlowes-Theme-Mrs-Grayles-Theme but i dount the instrumentation would be as cool\n"
 		},
 		{
@@ -30,7 +40,7 @@
 			"duration-seconds": "43",
 			"url": "url for discogs",
 			"surl": "https://open.spotify.com/track/7Cm2CaZc35mndY9XBfFfqD?si=7095ade2b2e647e2",
-			"public": true,
+			"public": false,
 			"comments": "Can't find Vol.II on Discogs, Vol I is there https://www.discogs.com/release/11582368-Charl-Du-Plessis-Trio-Charl-du-Plessis-Werner-Spies-Hugo-Radyn-Baroqueswing-Vol-I which is not altogether helpful\n"
 		},
 		{
@@ -41,7 +51,7 @@
 			"duration-seconds": "19",
 			"url": "https://www.discogs.com/master/306030-Cannonball-Adderley-Cannonball-Adderleys-Fiddler-On-The-Roof",
 			"surl": "https://open.spotify.com/track/2noJAsk0cXkzswibXMbTFr?si=8a24c557f2fd4e80",
-			"public": true,
+			"public": false,
 			"comments": "Reserve,  if one of the others proves troublesome"
 		},
 		{
