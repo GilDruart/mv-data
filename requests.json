@@ -2,6 +2,37 @@
 	"next-set": "December",
 	"request": [
 		{
+			"title": "Summertime The Gershwin Version",
+			"artiste(s)": "Lana del Rey",
+			"album": "Summertime The Gershwin Version",
+			"duration-minutes": "3",
+			"duration-seconds": "06",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/25Mld9UGdMqXYDU2x8l3ld?si=e06b291a6d0d4457",
+			"public": true,
+			"comments": "Ok, so first time for Lana del Rey at a jazz set?"
+		},
+		{
+			"title": "Boléro",
+			"artiste(s)": "Trio X of Sweden",
+			"album": "Träumerei",
+			"duration-minutes": "7",
+			"duration-seconds": "12",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/0okBlGJdxmDos1f6H4PyRq?si=88db1cf8e6e941b0",
+			"public": true
+		},
+		{
+			"title": "Vägen (Live)",
+			"artiste(s)": "Tingvall Trio with Ingolf Burkhardt",
+			"album": "Vägen",
+			"duration-minutes": "6",
+			"duration-seconds": "22",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/3mWM3nkqP7WEEiKelZjH4L?si=28de4fe053734617",
+			"public": true
+		},
+		{
 			"title": "At Sea",
 			"artiste(s)": "Kjellerbandet, Ingrid Jensen",
 			"album": "Kjellerbandet with Ingrid Jensen live at Jazzfest 2017",
@@ -9,7 +40,7 @@
 			"duration-seconds": "16",
 			"url": "url for discogs",
 			"surl": "https://open.spotify.com/track/4PqEomHNcVb8OQpOU50zII?si=347f404fb826479b",
-			"public": true,
+			"public": false,
 			"comments": "pfff, can't find this on discogs at all, so I'll add a third/reserve lest you have no better luck"
 		},
 		{
@@ -20,7 +51,7 @@
 			"duration-seconds": "49",
 			"url": "https://www.discogs.com/release/9908538-Oded-Tzur-Shai-Maestro-Petros-Klampanis-Ziv-Ravitz-Like-A-Great-River/2jbXccUCWIPs49YV4tt8Wy?si=33e800a4d96a46c3\n",
 			"surl": "https://open.spotify.com/track/063mlDuhP6P0Mgtf91RFok?si=63b6d92ad2c14c59/2noJAsk0cXkzswibXMbTFr?si=8a24c557f2fd4e80",
-			"public": true
+			"public": false
 		},
 		{
 			"title": "Bussie's Blues",
@@ -30,7 +61,7 @@
 			"duration-seconds": "57",
 			"url": "https://www.discogs.com/release/12486000-Claude-Debussy-Quatuor-Debussy-Debussy--Et-Le-Jazz\n",
 			"surl": "https://open.spotify.com/track/2cPPQeXiRrtBEJkOAQQ3CI?si=8b9dfbdad5c144d9\n",
-			"public": true
+			"public": false
 		},
 		{
 			"title": "Marlowe's Theme",
