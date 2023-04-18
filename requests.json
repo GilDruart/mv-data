@@ -10,7 +10,7 @@
 			"url": "url for discogs",
 			"surl": "https://open.spotify.com/track/25Mld9UGdMqXYDU2x8l3ld?si=e06b291a6d0d4457",
 			"public": true,
-			"comments": "Ok, so first time for Lana del Rey at a jazz set?"
+			"comments": "Ok, so first time for Lana del Rey at a jazz set?\nSingle from 2020. Could not find on Discogs."
 		},
 		{
 			"title": "Boléro",
@@ -18,7 +18,7 @@
 			"album": "Träumerei",
 			"duration-minutes": "7",
 			"duration-seconds": "12",
-			"url": "url for discogs",
+			"url": "https://www.discogs.com/master/2294230-Trio-X-Of-Sweden-Tr%C3%A4umerei",
 			"surl": "https://open.spotify.com/track/0okBlGJdxmDos1f6H4PyRq?si=88db1cf8e6e941b0",
 			"public": true
 		},
@@ -28,9 +28,10 @@
 			"album": "Vägen",
 			"duration-minutes": "6",
 			"duration-seconds": "22",
-			"url": "url for discogs",
+			"url": "https://www.discogs.com/release/4748125-Tingvall-Trio-Live-At-Elbjazz-Festival-2001-Hamburg",
 			"surl": "https://open.spotify.com/track/3mWM3nkqP7WEEiKelZjH4L?si=28de4fe053734617",
-			"public": true
+			"public": true,
+			"comments": "If the live version is a problem, I would settle for the not-so-live and slightly shorter studio version (around 5'40\" I think)"
 		},
 		{
 			"title": "At Sea",
