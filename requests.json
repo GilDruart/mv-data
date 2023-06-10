@@ -2,6 +2,28 @@
 	"next-set": "June",
 	"request": [
 		{
+			"title": "Hope Or Less",
+			"artiste(s)": "Greg Spero",
+			"album": "The Chicago Expeiment: Revisited",
+			"duration-minutes": "10",
+			"duration-seconds": "02",
+			"url": "url for discogs",
+			"surl": "https://open.spotify.com/track/5CRURxrKUky7MSxjnPeYBc?si=b24e9c8ef03c4281",
+			"public": true,
+			"comments": "Can't find this on discogs, too recent? From March this year, I think. It's on Bandcamp."
+		},
+		{
+			"title": "Eternal Now/Homeless",
+			"artiste(s)": "Annisette with the Danish Radio Big Band",
+			"album": "Tale Of Time",
+			"duration-minutes": "9",
+			"duration-seconds": "27",
+			"url": "https://www.discogs.com/release/23706260-Annisette-The-Danish-Radio-Big-Band-Tale-Of-Time",
+			"surl": "https://open.spotify.com/track/6iS9dTOthpr3xeoWjFQaND?si=651fa612f24b44c0",
+			"public": true,
+			"comments": "Reserve"
+		},
+		{
 			"title": "Summertime The Gershwin Version",
 			"artiste(s)": "Lana del Rey",
 			"album": "Summertime The Gershwin Version",
